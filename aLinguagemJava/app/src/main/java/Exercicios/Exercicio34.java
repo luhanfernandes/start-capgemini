@@ -33,7 +33,7 @@ public class Exercicio34 {
         } else if(idade >= 18 && idade <= 25){
             System.out.println("Sênior");
         } else{
-            System.out.println("Fora da idade ideal!");
+            System.out.println("Fora da idade ideal.");
         }
         
     }

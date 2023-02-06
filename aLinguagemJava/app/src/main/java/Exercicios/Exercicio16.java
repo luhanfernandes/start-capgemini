@@ -1,7 +1,7 @@
 /*
- 16. Escreva um algoritmo que leia o nome e as três notas obtidas por um aluno durante o semestre. Calcular a 
-sua média (aritmética), informar o nome e sua menção aprovado (media >= 7), Reprovado (media <= 5) e 
-Recuperação (media entre 5.1 a 6.9)
+ 16. Escreva um algoritmo que leia o nome e as trï¿½s notas obtidas por um aluno durante o semestre. Calcular a 
+sua mï¿½dia (aritmï¿½tica), informar o nome e sua menï¿½ï¿½o aprovado (media >= 7), Reprovado (media <= 5) e 
+Recuperaï¿½ï¿½o (media entre 5.1 a 6.9)
  */
 package Exercicios;
 
